@@ -2,7 +2,6 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT ||8080;
 // const {createPool} = require('mysql')
-// require('dotenv').config()
 // let conn = createPool({
 //     user:process.env.DB_USER,
 //     password:process.env.DB_PASS,
